@@ -2,6 +2,6 @@ echo "installing dependencies"
 npx yarn
 echo "✔ dependencies has been installed"
 
-echo "initializing server"
+echo "Starting Bot...!"
 npx yarn dev
 
